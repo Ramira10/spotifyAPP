@@ -6,9 +6,9 @@ Simple web application that allows you to search for an artist, view their album
 
 <p>
 <img width='300' src='https://i.postimg.cc/mPMGbtPH/1.png' </img>
-<img width='300' src='https://i.postimg.cc/mPMGbtPH/1.png' </img>
- <img width='300' src='https://i.postimg.cc/mPMGbtPH/1.png' </img>
- <img width='300' src='https://i.postimg.cc/mPMGbtPH/1.png' </img>
+<img width='300' src='https://i.postimg.cc/PLjnNTDF/2.png' </img>
+<img width='300' src='https://i.postimg.cc/8j7S0yDw/3.png' </img>
+<img width='300' src='https://i.postimg.cc/5HSdCTq9/4.png' </img>
 </p>
 
 ## Deploy
