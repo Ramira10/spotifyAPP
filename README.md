@@ -5,10 +5,7 @@
 Simple web application that allows you to search for an artist, view their albums and view their search history.
 
 <p>
-<img width='300' src='https://i.postimg.cc/mPMGbtPH/1.png' </img>
-<img width='300' src='https://i.postimg.cc/PLjnNTDF/2.png' </img>
-<img width='300' src='https://i.postimg.cc/8j7S0yDw/3.png' </img>
-<img width='300' src='https://i.postimg.cc/5HSdCTq9/4.png' </img>
+<img width='500' src='https://i.postimg.cc/P5VfQDh2/1.png' </img>
 </p>
 
 ## Deploy
