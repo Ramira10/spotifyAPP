@@ -4,7 +4,7 @@
 
 Simple web application that allows you to search for an artist, view their albums and view their search history.
 
-<p style="text-align:center">
+<p style="text-align:center;">
 <img width='500' src='https://i.postimg.cc/P5VfQDh2/1.png' </img>
 <img width='500' src='https://i.postimg.cc/9f4m8fQV/2.png' </img>
 <img width='500' src='https://i.postimg.cc/FsZH1q6t/3.png' </img>
